@@ -53,4 +53,4 @@ Check out the official site [Prismic](https://prismic.io/) for more details.
 
 👤 **Morgana Bagatini**
 
-* Github: [@morganabagatini](https://github.com/morganabagatini)
+* Github: [@mbagatini](https://github.com/mbagatini)
